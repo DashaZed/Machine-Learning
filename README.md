@@ -1,1 +1,1 @@
-# Machine-Learning
+# Lab works from Innopolis University
